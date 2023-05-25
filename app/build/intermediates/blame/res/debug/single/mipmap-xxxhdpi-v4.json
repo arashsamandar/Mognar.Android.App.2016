@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\namehaye_daryafty.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\namehaye_daryafty.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\exit_icon.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\exit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\change_password.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\change_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\searchings.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\searchings.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\namehaye_ersaly.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\namehaye_ersaly.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\about_gonar.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxxhdpi\\about_gonar.png"
+    }
+]

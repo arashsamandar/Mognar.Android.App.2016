@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="26282435802694"
+    token="-3168445451045999955" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Arash\Downloads\Compressed\Mognar\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="26282435802694" >
+        <artifact
+            location="C:\Users\Arash\Downloads\Compressed\Mognar\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\namehaye_ersaly.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\namehaye_ersaly.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\change_password.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\change_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\exit_icon.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\exit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\searchings.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\searchings.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\namehaye_daryafty.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\namehaye_daryafty.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\about_gonar.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-xxhdpi\\about_gonar.png"
+    }
+]

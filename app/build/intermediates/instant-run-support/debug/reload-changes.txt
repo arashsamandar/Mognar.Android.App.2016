@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Arash\Downloads\Compressed\Mognar\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\rahpad_group\mognar\BuildConfig$override.class
+CHANGED,C:\Users\Arash\Downloads\Compressed\Mognar\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

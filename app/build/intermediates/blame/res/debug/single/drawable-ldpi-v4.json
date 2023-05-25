@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rahpad_logo.jpg",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\drawable-ldpi\\rahpad_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mognar.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\drawable-ldpi\\mognar.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login_background.jpg",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\drawable-ldpi\\login_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gonar_logo_actionbar.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\gonar_logo_actionbar.png"
+    }
+]

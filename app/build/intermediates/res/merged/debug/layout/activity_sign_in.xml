@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="25dp" android:id="@+id/tablerowmognarlogo">
+
+            <ImageView
+                android:layout_width="140dp"
+                android:layout_height="81.7dp"
+                android:layout_marginBottom="135dp"
+                android:id="@+id/img_mognar_logo"
+                android:background="@drawable/mognar"/>
+        </TableRow>
+        </TableLayout>
+
+    <TableLayout
+        android:layout_marginTop="245dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal">
+
+            <EditText
+                android:layout_width="290dp"
+                android:layout_height="35dp"
+                android:padding="5.5dp"
+                android:id="@+id/username"
+                android:gravity="right"
+                android:background="@drawable/edittext"
+                android:textSize="15sp"
+                android:hint="نام کاربری"
+                android:layout_marginBottom="13dp"/>
+        </TableRow>
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal">
+
+            <EditText
+                android:layout_width="290dp"
+                android:layout_height="35dp"
+                android:id="@+id/passwords"
+                android:gravity="right"
+                android:background="@drawable/edittext"
+                android:textSize="15sp"
+                android:hint="رمز عبور"
+                android:padding="5.5dp"
+                android:inputType="textPassword"
+                android:layout_marginBottom="15dp"/>
+        </TableRow>
+
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:gravity="center">
+            <FrameLayout
+                android:layout_height="wrap_content">
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp">
+
+                    <Button
+                        android:id="@+id/SaveButton"
+                        android:layout_width="145dp"
+                        android:layout_height="35dp"
+                        android:background="@drawable/buttonstete"
+                        android:textStyle="bold"
+                        android:textColor="#FFFFFF"
+                        android:text="ورود"
+                        android:onClick="OnLogin"
+                        >
+                    </Button>
+
+
+                </TableRow>
+            </FrameLayout>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:id="@+id/txt_rahpadGroup"
+                android:textColor="#FFFFFF"
+                android:textSize="12dp"
+                android:layout_marginBottom="5dp"/>
+        </TableRow>
+    </TableLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\exit_icon.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\exit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\namehaye_ersaly.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\namehaye_ersaly.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\about_gonar.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\about_gonar.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\namehaye_daryafty.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\namehaye_daryafty.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\searchings.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\searchings.png"
+    },
+    {
+        "merged": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\change_password.png",
+        "source": "C:\\Users\\Arash\\Downloads\\Compressed\\Mognar\\app\\src\\main\\res\\mipmap-hdpi\\change_password.png"
+    }
+]
